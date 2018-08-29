@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Automox
 x-complete: 1
@@ -550,4 +549,3 @@ paths:
       tags:
       - Reports
       - Noncompliance
----
